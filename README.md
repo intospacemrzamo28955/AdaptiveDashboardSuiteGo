@@ -1,0 +1,2 @@
+# AdaptiveDashboardSuiteGo
+Python script
